@@ -1,0 +1,36 @@
+{
+  "name": "postmariadb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PostBD.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fullcalendar": "^3.9.0",
+    "mariadb": "^2.0.0-alpha",
+    "mysql": "^2.16.0",
+    "node-mariadb": "^0.1.1",
+    "node-rest-client": "^3.1.0",
+    "oracle": "^0.4.1",
+    "oracledb": "^3.0.0",
+    "postman": "^0.2.0",
+    "prompts": "^1.1.1",
+    "request": "^2.88.0",
+    "restify": "^7.2.1",
+    "unirest": "^0.5.1",
+    "body-parse": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosueFernando/PostMariaDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosueFernando/PostMariaDB/issues"
+  },
+  "homepage": "https://github.com/JosueFernando/PostMariaDB#readme"
+}
